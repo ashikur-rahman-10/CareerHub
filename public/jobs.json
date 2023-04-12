@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "company_logo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+        "job_title": "Front-end Developer",
+        "company_name": "Google",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K (Per Month)",
+        "job_description": "We are looking for a front-end developer with experience in HTML, CSS, and JavaScript to join our team.",
+        "job_responsibility": "Develop and maintain front-end features for our web applications. Work with designers and back-end developers to ensure a seamless user experience. Participate in code reviews and testing. Debug and troubleshoot issues as needed.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in front-end development.",
+        "contact_information": {
+            "phone": "123-456-7890",
+            "email": "jobs@google.com"
+        }
+    },
+    {
+        "id": 2,
+        "company_logo": "https://www.facebook.com/images/fb_icon_325x325.png",
+        "job_title": "Back-end Developer",
+        "company_name": "Facebook",
+        "remote_or_onsite": "Onsite",
+        "location": "Menlo Park, CA",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K (Per Month)",
+        "job_description": "We are looking for a back-end developer with experience in Java, Python, and databases to join our team.",
+        "job_responsibility": "Design and develop scalable and reliable back-end systems that support our web applications. Work with front-end developers to ensure seamless integration. Participate in code reviews and testing. Debug and troubleshoot issues as needed.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "5+ years of experience in back-end development.",
+        "contact_information": {
+            "phone": "987-654-3210",
+            "email": "jobs@facebook.com"
+        }
+    },
+    {
+        "id": 3,
+        "company_logo": "http://t1.gstatic.com/images?q=tbn:ANd9GcSjoU2lZ2eJX3aCMfiFDt39uRNcDu9W7pTKcyZymE2iKa7IOVaI",
+        "job_title": "iOS Developer",
+        "company_name": "Apple",
+        "remote_or_onsite": "Onsite",
+        "location": "Cupertino, CA",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K (Per Month)",
+        "job_description": "We are looking for an iOS developer with experience in Swift to join our team.",
+        "job_responsibility": "Design and develop iOS applications that meet user needs and requirements. Work with cross-functional teams to ensure seamless integration with back-end systems. Participate in code reviews and testing. Debug and troubleshoot issues as needed.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in iOS development.",
+        "contact_information": {
+            "phone": "555-123-4567",
+            "email": "jobs@apple.com"
+        }
+    },
+    {
+        "id": 4,
+        "company_logo": "https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png",
+        "job_title": "Cloud Engineer",
+        "company_name": "Microsoft",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K (Per Month)",
+        "job_description": "We are looking for a cloud engineer with experience in Azure to join our team.",
+        "job_responsibility": "Design and develop cloud-based solutions using Azure. Collaborate with other teams to ensure seamless integration of cloud-based systems. Participate in code reviews and testing. Debug and troubleshoot issues as needed.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "5+ years of experience in cloud engineering with Azure.",
+        "contact_information": {
+            "phone": "888-123-4567",
+            "email": "jobs@microsoft.com"
+        }
+    },
+    {
+        "id": 5,
+        "company_logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAoCAMAAACcjsm3AAAAclBMVEX///8ALon6/P1lh7NReqzo7vSPqMfk6fGxwdafss3Z4Ou/zN0AP48VW5yKpMUyZ6LQ2eYARZPy9fgAVJkAJ4YAAH0AI4UAH4TI0+JIdKkACX9GcKcAKodzkLkASJN+mb5bgK+outIANowAO44nYaAATpazpQw2AAABiklEQVRIie2Tf3ODIAyGkSoiKip2ra52+Kvf/ysuIVKtt91tu/3pc1fyBhJNE2Hs4OCvRJ5Vme0Bd47ZntDxe+A439hbsNB1fcRYcUZ9ubuwjw6dq9i8kXtWxbnh68E2apNnwhOhmVcOyyyJvoSopCedbhKtFoDWA/NKo9Us0eRjsBB01Ly2Rym1PAUUlqPIcrSqpP1n0Iods442kzEL8AX1lJ2hgarLANi5jyim3w7sW8Rc5LFTci4W5ggrzouiBY3bYIt9YinlQJNV0uNKN4OUDflpCss+UaVpSolx6nEVGBTK+aaBZZ+o6/xBpQ51vlC7Uh95nTS49+AtrP/TGcBO1biMAxTOOK+qAMcxVpNmp6waJSuqKtsnxmVZ0lcYgcJ/W5LlYGLcbDhToF+yjEgIybxyCDY4CwUkCbTFeWKTa26ho7WsCFfaO7PODjDnG2TfnSdhBK/f649pBrnc868u8iWE8cx4ka8WYnr41R1d5DQefGsWoqeKaaiRk/h4/gzDVv+t0oMD5BPTARq2psPRRAAAAABJRU5ErkJggg==",
+        "job_title": "Java Developer",
+        "company_name": "IBM",
+        "remote_or_onsite": "Onsite",
+        "location": "Armonk, NY",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K (Per Month)",
+        "job_description": "We are looking for a Java developer to join our team.",
+        "job_responsibility": "Design and develop scalable and reliable Java applications. Work with cross-functional teams to ensure seamless integration with other systems. Participate in code reviews and testing. Debug and troubleshoot issues as needed.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in Java development.",
+        "contact_information": {
+            "phone": "555-987-6543",
+            "email": "jobs@ibm.com"
+        }
+    },
+    {
+        "id": 6,
+        "company_logo": "https://www.amazon.com/favicon.ico",
+        "job_title": "Software Development Engineer",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K (Per Month)",
+        "job_description": "We are looking for a software development engineer to join our team.",
+        "job_responsibility": "Design and develop high-quality, scalable software solutions. Work with cross-functional teams to ensure seamless integration with other systems. Participate in code reviews and testing. Debug and troubleshoot issues as needed.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "5+ years of experience in software development.",
+        "contact_information": {
+            "phone": "777-123-4567",
+            "email": "jobs@amazon.com"
+        }
+    },
+    {
+        "id": 7,
+        "company_logo": "https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg",
+        "job_title": "Full Stack Developer",
+        "company_name": "Salesforce",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K (Per Month)",
+        "job_description": "We are looking for a full stack developer to join our team.",
+        "job_responsibility": "Design and develop scalable and reliable full stack applications. Work with cross-functional teams to ensure seamless integration with other systems. Participate in code reviews and testing. Debug and troubleshoot issues as needed.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in full stack development.",
+        "contact_information": {
+            "phone": "888-555-1212",
+            "email": "jobs@salesforce.com"
+        }
+    },
+    {
+        "id": 8,
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg",
+        "job_title": "Database Administrator",
+        "company_name": "Oracle",
+        "remote_or_onsite": "Onsite",
+        "location": "Redwood City, CA",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K (Per Month)",
+        "job_description": "We are looking for a database administrator to join our team.",
+        "job_responsibility": "Design, install, and maintain Oracle databases. Work with cross-functional teams to ensure seamless integration with other systems. Troubleshoot and resolve database issues. Develop and implement database security policies.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "5+ years of experience in database administration with Oracle.",
+        "contact_information": {
+            "phone": "650-506-7000",
+            "email": "jobs@oracle.com"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category_logo": "https://raw.githubusercontent.com/ashikur-rahman-10/img-host/main/assignment-9/briefcase-svgrepo-com.png",
+        "category_name": "Account & Finance Jobs",
+        "jobs_available": 20
+    },
+    {
+        "id": 2,
+        "category_logo": "https://raw.githubusercontent.com/ashikur-rahman-10/img-host/main/assignment-9/brainstorming-svgrepo-com.png",
+        "category_name": "Creative Design Jobs",
+        "jobs_available": 10
+    },
+    {
+        "id": 3,
+        "category_logo": "https://raw.githubusercontent.com/ashikur-rahman-10/img-host/main/assignment-9/megaphone-svgrepo-com.png",
+        "category_name": "Marketing & Sales Jobs",
+        "jobs_available": 15
+    },
+    {
+        "id": 4,
+        "category_logo": "https://raw.githubusercontent.com/ashikur-rahman-10/img-host/main/assignment-9/gear-10-svgrepo-com.png",
+        "category_name": "Engineering Jobs",
+        "jobs_available": 12
+    }
+]
